@@ -46,5 +46,8 @@ public class OpenAndCloseBrowser {
 		// TODO Auto-generated method stub
 		return driver;
 	}
+	public void test(){
+		
+	}
 	
 }
