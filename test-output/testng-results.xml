@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24576" started-at="2021-05-21T01:13:24Z" finished-at="2021-05-21T01:13:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24576" started-at="2021-05-21T01:13:24Z" finished-at="2021-05-21T01:13:49Z">
+      <class name="test.LoginPageTest">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:test.LoginPageTest@1936f0f5]" name="openBrowser" is-config="true" duration-ms="5316" started-at="2021-05-20T21:13:24Z" finished-at="2021-05-20T21:13:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:test.LoginPageTest@1936f0f5]" name="openUrl" is-config="true" duration-ms="5226" started-at="2021-05-20T21:13:29Z" finished-at="2021-05-20T21:13:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="test()[pri:0, instance:test.LoginPageTest@1936f0f5]" name="test" duration-ms="10579" started-at="2021-05-20T21:13:35Z" finished-at="2021-05-20T21:13:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:test.LoginPageTest@1936f0f5]" name="closeBrowser" is-config="true" duration-ms="3375" started-at="2021-05-20T21:13:45Z" finished-at="2021-05-20T21:13:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
